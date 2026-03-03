@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "G887535M62.com.kidbank",
+        "paths": [ "/kiosk-setup", "/kiosk-setup/*" ]
+      }
+    ]
+  }
+}
